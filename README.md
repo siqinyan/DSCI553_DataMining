@@ -3,10 +3,12 @@ DSCI 553: Foundations and Applications of Data Mining - 2021 Summer - USC Viterb
 
 Final Score: A (94+)
 
+
 ## Course Description
 Data mining is a foundational piece of the data analytics skill set. At a high level, it allows the analyst to discover patterns in data, and transform it into a usable product. The course will teach data mining algorithms for analyzing very large data sets. It will have an applied focus, in that it is meant for preparing students to utilize topics in data mining to solve real world problems.
 
 Reference: [syllabus](https://github.com/siqinyan/DSCI553_DataMining/blob/main/Syllabus.pdf)
+
 
 ## Course Content
 Textbook: Rajaraman, J. Leskovec and J. D. Ullman, Mining of Massive Datasets o Cambridge University Press, 3rd Edition 2019
