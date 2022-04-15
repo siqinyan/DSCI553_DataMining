@@ -14,10 +14,10 @@ Textbook: Rajaraman, J. Leskovec and J. D. Ullman, Mining of Massive Datasets o 
 |No.|    Topic    |    Readings    |   Keywords  |
 |---|-------------|----------------|---------------|
 |1|Introduction to Data Mining, MapReduce|Ch1: Data Mining, Ch2: Large-Scale File Systems and Map-Reduce|`MapReduce`, `Spark`|
-|2|Frequent itemsets and Association rules|Ch6: Frequent itemsets|`Association Rules`, `A-Priori Algorithm`, `PCY Algorithm`, `Multi-Stage Algorithm`, `Multi-Hash Algorithm`, `Limited Pass Algorithms`, `SON Algorithm`, `Toivonen's Algorithm`|
-|4|Shingling, Minhashing, Locality Sensitive Hashing|Ch3: Finding Similar Items|`Shingle`, `Minhash`, `LSH`|
-|5|Recommendation Systems: Content-based and Collaborative Filtering|Ch9: Recommendation systems|`Content-Based Recommendations`, `Collaborative Filtering Recommendations`, `User-based CF`, `Item-based CF`, `Model-based CF`, `Hybrid Systems`|
-|6|Clustering|Ch7: Clustering|`Hierarchical Clustering`, `K-Means Algorithm`, `BFR Algorithm`, `CURE Algorithm`|
+|2|Frequent itemsets and Association rules|Ch6: Frequent itemsets|`Association Rules`, `A-Priori`, `PCY`, `Multi-Stage`, `Multi-Hash`, `Limited Pass Algorithms`, `SON`, `Toivonen's Algorithm`|
+|3|Shingling, Minhashing, Locality Sensitive Hashing|Ch3: Finding Similar Items|`Shingle`, `Minhash`, `LSH`|
+|4|Recommendation Systems: Content-based and Collaborative Filtering|Ch9: Recommendation systems|`Content-Based Recommendations`, `Collaborative Filtering Recommendations`, `User-based CF`, `Item-based CF`, `Model-based CF`, `Hybrid Systems`|
+|5|Clustering|Ch7: Clustering|`Hierarchical Clustering`, `K-Means`, `BFR`, `CURE`|
 |6|Analysis of Massive Graphs (Social Networks)|Ch10: Analysis of Social Networks|`Affiliation-Graph Model`, `BigCLAM`, `Directed Memberships`, `Girvan-Newman Algorithm`, `Spectral Clustering`, `Trawling`|
 |7|Comprehensive Exam|/|/|
 
@@ -25,7 +25,7 @@ Textbook: Rajaraman, J. Leskovec and J. D. Ullman, Mining of Massive Datasets o 
 ## Course Work
 |No.|    Main Application    |Programming Language|Tags|
 |---|------------------------|--------------------|----|
-|1|[Data Exploration](https://github.com/siqinyan/DSCI553_DataMining/blob/main/HW1/HW1.pdf)|[Python](https://github.com/siqinyan/DSCI553_DataMining/tree/main/HW1) |`Pyspark` `MapReduce`|
+|1|[Data Exploration](https://github.com/siqinyan/DSCI553_DataMining/blob/main/HW1/HW1.pdf)|[Python](https://github.com/siqinyan/DSCI553_DataMining/tree/main/HW1) |`PySpark` `MapReduce`|
 |2|[Find Frequent Itemsets](https://github.com/siqinyan/DSCI553_DataMining/blob/main/HW2/HW2.pdf)|[Python](https://github.com/siqinyan/DSCI553_DataMining/tree/main/HW2)|`SON` `PCY` `Apriori`|
 |3|[Find Similar Items & Recommendation Systems](https://github.com/siqinyan/DSCI553_DataMining/blob/main/HW3/HW3.pdf)|[Python](https://github.com/siqinyan/DSCI553_DataMining/tree/main/HW3)|`Min-Hash` `LSH` `Content-based Recommendations` `Collaborative Filtering`|
 |4|[Clustering Algorithms](https://github.com/siqinyan/DSCI553_DataMining/blob/main/HW4/HW4_new.pdf)|[Python](https://github.com/siqinyan/DSCI553_DataMining/tree/main/HW4)|`K-Means` `Bradley-Fayyad-Reina (BFR) Algorithm` `NMI`|
