@@ -135,3 +135,7 @@ dmypy.json
 *.csv
 *.txt
 *.model
+*.DS_Store
+Vocareum_Tutorial.pdf
+未命名.ipynb
+/Quiz/
